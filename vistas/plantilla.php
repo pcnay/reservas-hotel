@@ -65,22 +65,22 @@ $ruta = ControladorRuta::ctrRuta();
 	<!-- https://bootstrap-datepicker.readthedocs.io/en/latest/ -->
 	<script src="js/plugins/bootstrap-datepicker.min.js"></script>
 
-	<!-- https://easings.net/es# -->
+	<!-- https://easings.net/es#, para el manejo de los scroll en las paginas  -->
 	<script src="js/plugins/jquery.easing.js"></script>
 
 	<!-- https://markgoodyear.com/labs/scrollup/ -->
 	<script src="js/plugins/scrollUP.js"></script>
 
-	<!-- jdSlider -->
+	<!-- jdSlider, es el banner de la paginas en el menu principal  -->
 	<!-- https://www.jqueryscript.net/slider/Carousel-Slideshow-jdSlider.html -->
 	<script src="js/plugins/jquery.jdSlider-latest.js"></script>
 
 	<!-- Pano -->
-	<!-- https://www.jqueryscript.net/other/360-Degree-Panoramic-Image-Viewer-with-jQuery-Pano.html -->
+	<!-- https://www.jqueryscript.net/other/360-Degree-Panoramic-Image-Viewer-with-jQuery-Pano.html , coloca las fotografias en 360° -->
 	<script src="js/plugins/jquery.pano.js"></script>
 
 	<!-- fullCalendar -->
-	<!-- https://momentjs.com/ -->
+	<!-- https://momentjs.com/ , se utilizan para desplegar un calendario grande en pantalla.-->
 	<script src="js/plugins/moment.js"></script>
 	<!-- https://fullcalendar.io/docs/background-events-demo -->	
 	<script src="js/plugins/fullcalendar.min.js"></script>
