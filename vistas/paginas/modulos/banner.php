@@ -1,3 +1,9 @@
+<?php
+	$banner = ControladorBanner::ctrMostrarBanner();
+	// class="bg-white" = Clase de Bootstrap
+	// echo '<pre....  = Es como un console.log de JavaScript
+	echo '<pre class="bg-white" >'; print_r($banner); echo '</pre>';
+?>
 <!--=====================================
 BANNER
 ======================================-->
