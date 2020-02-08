@@ -1,6 +1,7 @@
 <?php
 
 $ruta = ControladorRuta::ctrRuta();
+$servidor = ControladorRuta::ctrServidor();
 
 ?>
 
